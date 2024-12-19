@@ -44,7 +44,7 @@ git clone https://github.com/yourusername/home-automation-system.git
 
 ## Contributors
 
-- Dasun Theekshana (@LST_The_Rapper)
+- Laknath Niran
 
 ## License
 
